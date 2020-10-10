@@ -1,0 +1,23 @@
+.square {
+  background: #fff;
+  border: 1px solid #999;
+  font-weight: bold;
+  line-height: 34px;
+  height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  padding: 0;
+  text-align: center;
+  width: 34px;
+  vertical-align: bottom;
+}
+
+.board-row, .square {
+  font-size: 24px;
+}
+
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
+}
