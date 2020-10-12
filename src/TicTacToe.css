@@ -1,3 +1,10 @@
+.tic-tac-toe {
+  font-size: 16px;
+  display: inline-block;
+  align-self: center;
+  border-spacing: 0px;
+}
+
 .square {
   background: #fff;
   border: 1px solid #999;
