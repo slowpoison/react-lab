@@ -4,4 +4,4 @@
 
 Simple gameplay
 
-![Tic-Tac-Toe Screenshot](public/tictactoe.jpg)
+![Tic-Tac-Toe Screenshot](public/tictactoe.png)
